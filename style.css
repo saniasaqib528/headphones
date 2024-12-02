@@ -1,0 +1,33 @@
+.main{
+    background: black;
+    height: 470px;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+.a{
+    width: 350px;
+    height: 180px;
+    background: palevioletred;
+    border-radius: 20px;
+;
+    
+}
+.b {
+    color: aliceblue;
+    text-transform: uppercase;
+    text-align: center;
+}
+.c{
+    color: aqua;
+    text-transform: uppercase;
+    margin-left: 75px;
+}
+.d{
+    color: aliceblue;
+    text-transform: capitalize;
+    margin-left: 10px;
+    text-align:center;
+}
+
+}
